@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Thalen</h1>
 <h3 align="left">A high school student interested in Computer Science</h3>
 
-🔗 View my portfolio at [thalenabadia.com](thalenabadia.com)
+🔗 View my portfolio at [thalenabadia.com](https://thalenabadia.com)
 
 [![Linkedin: thalenabadia](https://img.shields.io/badge/-thalenabadia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalenabadia/)](https://www.linkedin.com/in/thalenabadia/)
 <h3 align="left">Languages and Tools:</h3>
