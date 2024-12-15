@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Thalen</h1>
-<h3 align="left">A high school student interested in Computer Science</h3>
+<h3 align="left">Computer Science and Engineering Major</h3>
 
 🔗 View my portfolio at [thalenabadia.com](https://thalenabadia.com)
 
